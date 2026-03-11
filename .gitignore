@@ -1,0 +1,27 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+*.swo
+*.pptx~
+*.pdf~
+
+# Local tooling
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Local exports and drafts
+dist/
+build/
+exports/
+*.log
