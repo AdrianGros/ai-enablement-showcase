@@ -587,8 +587,8 @@ def core_xml(created: str) -> str:
         "xmlns:dcmitype=\"http://purl.org/dc/dcmitype/\" "
         "xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">"
         "<dc:title>AI Enablement Showcase Deck</dc:title>"
-        "<dc:creator>Codex</dc:creator>"
-        "<cp:lastModifiedBy>Codex</cp:lastModifiedBy>"
+        "<dc:creator>Adrian Gros</dc:creator>"
+        "<cp:lastModifiedBy>Adrian Gros</cp:lastModifiedBy>"
         "<dcterms:created xsi:type=\"dcterms:W3CDTF\">" + created + "</dcterms:created>"
         "<dcterms:modified xsi:type=\"dcterms:W3CDTF\">" + created + "</dcterms:modified>"
         "</cp:coreProperties>"
@@ -601,7 +601,7 @@ def app_xml() -> str:
         <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
         <Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties"
                     xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
-          <Application>Codex PPTX Builder</Application>
+          <Application>Presentation Builder</Application>
           <Slides>12</Slides>
           <Notes>0</Notes>
           <HiddenSlides>0</HiddenSlides>

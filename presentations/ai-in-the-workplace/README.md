@@ -22,5 +22,6 @@ The deck is designed to explain practical AI usage in everyday work, clarify rea
 ## Notes
 
 - The deck uses the trust-audited wording from the repository docs.
-- It is a public showcase artifact, not a full internal training package.
+- It is a public showcase deck, not a full internal training package.
+- The material was prepared with AI assistance and reviewed through a DADM M workflow.
 - A PDF export is not included because no local office/PDF conversion tool is currently available.
